@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-hello
-
-=======
-branch member1 modified 1
-github
-This is not true
+1
+2
+3
+4
+5
 
 

@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello
 
+=======
+branch member1 modified 1
+>>>>>>> parent of d22ade3 (1)
